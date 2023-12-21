@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "name": "AAAA",
+      "description": "Bravo",
+      "price": "1234",
+      "image": "https://preview.redd.it/first-time-seeing-a-bugatti-v0-cqbshy5ob5ha1.jpg?width=640&crop=smart&auto=webp&s=ec28e9ddbf368a0970d18b864cfc09bd0f5ae069",
+      "type": "supercars",
+      "id": 1
+    },
+    {
+      "name": "Koenigsegg",
+      "description": "Jesko",
+      "price": "1mil$",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0833%29.jpg",
+      "type": "hypercar",
+      "id": 2
+    }
+  ]
+}
